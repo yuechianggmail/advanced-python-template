@@ -1,6 +1,6 @@
 title: Python Project
 plan:
-- title: Welcome
+- title: Welcome ChiangYue
   statement: markdowns/welcome.md
 projects:
   python:
